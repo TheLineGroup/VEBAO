@@ -1,6 +1,7 @@
-Sharing the first iteration of our VEBAO
-VEBAO
-Usage: Make sure to have Wolfram, ScholarAI and either BrowserOP or WebPilot as your plugins. Load into GPT-4 informing it that this is a challege template. Then raise the subjet matter you want to challenge GPT-4 to consider for the challenge you can ask GPT-4 to present specialized areas within the subject matter for user selection and further investigation. Make a selection and ask GPT-4 to add it to the VEBAO
+## Sharing the first iteration of our VEBAO
+## VEBAO
+## Usage: Make sure to have Wolfram, ScholarAI and either BrowserOP or WebPilot as your plugins. Load into GPT-4 informing it that this is a challege template. Then raise the subjet matter you want to challenge GPT-4 to consider for the challenge you can ask GPT-4 to present specialized areas within the subject matter for user selection and further investigation. Make a selection and ask GPT-4 to add it to the VEBAO.
+
 Verbalized Execution Blueprint for AI Operations Challenge [Number]:
 
 Name: [Descriptive title for the challenge]
